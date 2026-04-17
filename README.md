@@ -3,7 +3,7 @@
 ![Release (latest)](https://img.shields.io/github/v/release/L34T/Elib2Ebook_android?display_name=tag&sort=semver)
 ![Downloads (all releases)](https://img.shields.io/github/downloads/L34T/Elib2Ebook_android/total)
 ![Downloads (latest release)](https://img.shields.io/github/downloads/L34T/Elib2Ebook_android/latest/total)
-![Online manifest downloads (latest release asset)](https://img.shields.io/github/downloads/L34T/Elib2Ebook_android/latest/e2eandroid-online.json)
+![Online manifest downloads (latest release asset)](https://img.shields.io/github/downloads/L34T/Elib2Ebook_android/latest/e2eandroid-online.json.svg)
 
 ## Online data (beta / updates)
 
